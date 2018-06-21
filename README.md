@@ -1,6 +1,6 @@
-# Working Environment using Webpack 4 + Gulp 4 + Bootstrap 4 
+# Development Environment using Webpack 4 + Gulp 4 + Bootstrap 4 
 
-Working environment using Webpack 4 + Gulp 4 + Bootstrap 4. 
+My development setup using Webpack 4 + Gulp 4 + Bootstrap 4. 
 
 ## Overview
 
